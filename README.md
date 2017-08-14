@@ -4,4 +4,4 @@ Research code base to run piecewise-constant parametric approximations in surviv
 
 A link to the paper: [piecewise-constant parametric approximations for survival learning](http://www.andrew.cmu.edu/user/jweiss2/2017mlhc_pcpas.pdf)
 
-Synthetic data simulations in 'simulations' folder. Experiments were run on a subpopulation of MIMIC III from mimic.phyionet.org, whose access requires ethics training and and a data use agreement.
+Synthetic data simulations in 'simulations' folder. Experiments were run on a subpopulation of MIMIC III from [mimic.physionet.org](mimic.physionet.org), whose access requires ethics training and and a data use agreement.
